@@ -8,3 +8,4 @@ Testing Go patch release.
 Testing SW release.
 Testing EG release.
 Testing CC release.
+Testing CH release.
